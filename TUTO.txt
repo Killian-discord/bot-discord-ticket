@@ -1,0 +1,7 @@
+• Allez dans index.js et mettez le token de votre bot a la place du "TOKEN"
+• Hébergez votre bot et lancez le
+• Faites s!ticket-setup et voilà
+
+-> Pour modifier les noms des tickets/modifier les catégories ect.. modifiez les dans le dossier 'events' et dans les différents fichiers en .js
+
+Pour avoir plus d'aide, contactez FTF_Furious#8150 en MP
